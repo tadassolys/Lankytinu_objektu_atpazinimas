@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lankytinu_objektu_atpazinimas</string>
+
+    <string name="tag1">kated_varpine</string>
+    <string name="url1">https://bpmuziejus.lt/varpine.html</string>
+    <string name="info1">Vilniaus arkikatedros varpinė – vienas iš pagrindinių miesto simbolių, svarbi arkikatedros, Žemutinės ir Aukštutinės pilių komplekso dalis. Varpinės istorija siekia XIII a. vidurį: čia stovėjęs gynybinis bokštas XVI a. tapo varpine, o XIX a. pradžioje įgavo dabartinę išvaizdą. Pastato viršuje laiką skaičiuoja seniausias miesto laikrodis, į šv. Mišias kviečia varpų skambėjimas, bokšto istoriją pristato interaktyvi ekspozicija, lankytojams atsiveria įspūdingi Vilniaus vaizdai.</string>
+    <string name="coordinates1">54.685780605683675, 25.28666902636316</string>
+
+    <string name="tag2">ged_bokstas</string>
+    <string name="url2">https://lnm.lt/muziejai/gedimino-pilies-bokstas/</string>
+    <string name="info2">Vilniaus aukštutinė pilis – gotikinė pilis Vilniuje, kurios liekanos stūkso Gedimino kalno aikštelėje. Papėdėje buvo LDK kunigaikščio Vytauto Didžiojo rezidencija, dabar – atstatyti Valdovų rūmai. Iš pagarbos Vilniaus įkūrėjui LDK kunigaikščiui Gediminui pilis pavadinta jo vardu. </string>
+    <string name="coordinates2">54.68696292685364, 25.291325331169983</string>
+
+</resources>
